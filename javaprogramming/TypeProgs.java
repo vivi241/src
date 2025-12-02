@@ -10,7 +10,8 @@ public class TypeProgs {
 	    float f = 7.67f; 
 	    double d = .6921; 
 			
-	    double result = (f / b) - (i / c) + (d * s);  // The Expression 
+	    double result = (f / b) - (i / c) + (d * s); 
+	   // The Expression 
 			
 	    System.out.println("result = " + result);  //Result after all the promotions are done 
 	  } 
